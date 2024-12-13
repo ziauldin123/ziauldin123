@@ -6,14 +6,41 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziauldin123" alt="ziauldin123" /></a> </p>
 
 - 🔭 I’m currently working on [reedablez.com](https://reedablez.com)
-
 - 🌱 I’m currently learning **Machine Learning**
-
-- 📝 I regularly write articles on [https://reedablez.com](https://reedablez.com)
-
+- 📝 I regularly write articles on [reedablez.com](https://reedablez.com)
 - 📫 How to reach me **mziauldin2@gmail.com**
+- 📄 Know about my experiences [Upwork Profile](https://www.upwork.com/freelancers/mziauldin)
 
-- 📄 Know about my experiences [https://www.upwork.com/freelancers/mziauldin](https://www.upwork.com/freelancers/mziauldin)
+<h3 align="left">Professional Summary</h3>
+<p>
+Results and market-oriented software engineer with experience in software development/software architecture design. Expertise in Python, JavaScript with hands-on experience in C# and Java (Android) and various frameworks of back-end, front-end, and serverless applications. Proficient in database management, machine learning, and cloud platforms (AWS, Azure, and GCP). Skilled in DevOps, Agile methodologies, and team collaboration.
+</p>
+
+<h3 align="left">Technical Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> Python, JavaScript, TypeScript</li>
+  <li><strong>Frameworks:</strong> Flask, FastAPI, Django, Angular, React, NestJS, Node.js</li>
+  <li><strong>Relational Databases:</strong> PostgreSQL, MongoDB, MySQL, SQLite, Redis</li>
+  <li><strong>NoSQL/Non-relational:</strong> Elasticsearch</li>
+  <li><strong>Cloud Platforms:</strong> AWS (EC2, S3, Elastic Beanstalk, RDS, Kubernetes), Azure, Google Cloud Services</li>
+  <li><strong>Operating Systems:</strong> Windows, macOS, Linux, Ubuntu</li>
+  <li><strong>Tools:</strong> Jira, Postman, Docker, Jenkins, Kafka, GIT, GitLab CI/CD, ETL pipelines, Swagger</li>
+  <li><strong>Web Servers:</strong> Apache, Nginx</li>
+  <li><strong>Exposure to:</strong> HTML, CSS, Bootstrap, Pytest, Jest, PyTorch, Keras, TensorFlow, Pandas, NumPy, SQLAlchemy, Unit testing, Integration testing, Data Analytics, Technical Documentation, Security Tools, Data Mining, Data Visualization (Tableau, Power BI), AI Machine Learning Algorithms & Forecasting Models</li>
+  <li><strong>Methodologies:</strong> Test Driven Development, Behavior Driven Development, Agile Scrum, SDLC</li>
+</ul>
+
+<h3 align="left">Certifications</h3>
+<ul>
+  <li>PCEP™</li>
+  <li>Cisco Certified Programming Essentials 1 & 2 in Python</li>
+  <li>Certified Python Programmer certification by OpenEDG Python Institute</li>
+</ul>
+
+<h3 align="left">Hobbies & Activities</h3>
+<ul>
+  <li><strong>Problem Solving:</strong> Enjoy puzzles, riddles, and logic games that stimulate critical thinking and problem-solving abilities, essential for driving innovations in software development.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
