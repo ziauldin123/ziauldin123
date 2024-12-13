@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziauldin123" alt="ziauldin123" /></a> </p>
 
-- 🔭 I’m currently working on [reedablez.com](https://reedablez.com)
-- 🌱 I’m currently learning **Machine Learning**
-- 📝 I regularly write articles on [reedablez.com](https://reedablez.com)
-- 📫 How to reach me **mziauldin2@gmail.com**
-- 📄 Know about my experiences [Upwork Profile](https://www.upwork.com/freelancers/mziauldin)
 
 <h3 align="left">Professional Summary</h3>
 <p>
@@ -32,9 +27,8 @@ Results and market-oriented software engineer with experience in software develo
 
 <h3 align="left">Certifications</h3>
 <ul>
-  <li>PCEP™</li>
   <li>Cisco Certified Programming Essentials 1 & 2 in Python</li>
-  <li>Certified Python Programmer certification by OpenEDG Python Institute</li>
+  <li>PCEP™-Certified Python Programmer certification by OpenEDG Python Institute</li>
 </ul>
 
 <h3 align="left">Hobbies & Activities</h3>
