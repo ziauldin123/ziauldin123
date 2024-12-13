@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Django developer from Pakistan currently in United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziauldin123&label=Profile%20views&color=0e75b6&style=flat" alt="ziauldin123" /> </p>
-
 <h3 align="left">Professional Summary</h3>
 <p>
 Results and market-oriented software engineer with experience in software development/software architecture design. Expertise in Python, JavaScript with hands-on experience in C# and Java (Android) and various frameworks of back-end, front-end, and serverless applications. Proficient in database management, machine learning, and cloud platforms (AWS, Azure, and GCP). Skilled in DevOps, Agile methodologies, and team collaboration.
