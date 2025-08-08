@@ -4,21 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziauldin123&label=Profile%20views&color=0e75b6&style=flat" alt="ziauldin123" /> </p>
 <h3 align="left">Professional Summary</h3>
 <p>
-Results and market-oriented software engineer with experience in software development/software architecture design. Expertise in Python, JavaScript with hands-on experience in C# and Java (Android) and various frameworks of back-end, front-end, and serverless applications. Proficient in database management, machine learning, and cloud platforms (AWS, Azure, and GCP). Skilled in DevOps, Agile methodologies, and team collaboration.
+Full Stack Developer with over 5 years of experience designing, developing, and deploying scalable, secure, and high-performance applications. Proficient in backend frameworks (Django, Django REST Framework, FastAPI, Flask) and frontend technologies (React.js, JavaScript, HTML5, CSS3), delivering responsive, user-focused interfaces. Skilled in database management (PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch) with expertise in schema design, indexing, and query optimization to boost efficiency. Experienced in architecting cloud-native solutions on AWS, Azure, and GCP, implementing DevOps practices, CI/CD pipelines, containerization with Docker, and performance tuning. Proven success in building multi-vendor e-commerce platforms, high-traffic content management systems, and AI-powered solutions such as defect detection using Vision Transformers. Adept at API integration, microservices architecture, role-based access control, and applying security best practices. Strong track record in Agile Scrum environments, delivering projects ahead of deadlines, mentoring junior developers, and ensuring clean, maintainable code.
 </p>
 
 <h3 align="left">Technical Skills</h3>
 <ul>
   <li><strong>Languages:</strong> Python, JavaScript, TypeScript</li>
-  <li><strong>Frameworks:</strong> Flask, FastAPI, Django, Angular, React, NestJS, Node.js</li>
-  <li><strong>Relational Databases:</strong> PostgreSQL, MongoDB, MySQL, SQLite, Redis</li>
-  <li><strong>NoSQL/Non-relational:</strong> Elasticsearch</li>
-  <li><strong>Cloud Platforms:</strong> AWS (EC2, S3, Elastic Beanstalk, RDS, Kubernetes), Azure, Google Cloud Services</li>
+  <li><strong>Frameworks:</strong> Django, DRF, FastAPI, Flask, Angular, React, NestJS, Node.js</li>
+  <li><strong>Relational Databases:</strong> PostgreSQL, MySQL, SQLite, Redis</li>
+  <li><strong>NoSQL:</strong> MongoDB, Elasticsearch</li>
+  <li><strong>Cloud Platforms:</strong> AWS (EC2, S3, Elastic Beanstalk, RDS, Kubernetes), Azure, Google Cloud</li>
   <li><strong>Operating Systems:</strong> Windows, macOS, Linux, Ubuntu</li>
-  <li><strong>Tools:</strong> Jira, Postman, Docker, Jenkins, Kafka, GIT, GitLab CI/CD, ETL pipelines, Swagger</li>
+  <li><strong>Tools & DevOps:</strong> Jira, Postman, Docker, Jenkins, Kafka, Git, GitLab CI/CD, ETL Pipelines, Swagger</li>
   <li><strong>Web Servers:</strong> Apache, Nginx</li>
-  <li><strong>Exposure to:</strong> HTML, CSS, Bootstrap, Pytest, Jest, PyTorch, Keras, TensorFlow, Pandas, NumPy, SQLAlchemy, Unit testing, Integration testing, Data Analytics, Technical Documentation, Security Tools, Data Mining, Data Visualization (Tableau, Power BI), AI Machine Learning Algorithms & Forecasting Models</li>
-  <li><strong>Methodologies:</strong> Test Driven Development, Behavior Driven Development, Agile Scrum, SDLC</li>
+  <li><strong>Testing & Data:</strong> Pytest, Jest, Unit Testing, Integration Testing, Pandas, NumPy, SQLAlchemy</li>
+  <li><strong>Machine Learning & Analytics:</strong> PyTorch, Keras, TensorFlow, Tableau, Power BI, Data Mining, AI/ML Algorithms, Forecasting Models</li>
+  <li><strong>Methodologies:</strong> Agile Scrum, Test-Driven Development (TDD), Behavior-Driven Development (BDD), SDLC</li>
 </ul>
 
 <h3 align="left">Certifications</h3>
