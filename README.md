@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ziauldin</h1>
-<h3 align="center">A passionate Django developer from Pakistan currently in United Kingdom</h3>
+<h3 align="center">A passionate Django developer from United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziauldin123&label=Profile%20views&color=0e75b6&style=flat" alt="ziauldin123" /> </p>
 <h3 align="left">Professional Summary</h3>
